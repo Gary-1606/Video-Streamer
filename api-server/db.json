@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "Title": "First stream",
+      "Description": "Trying  to insert the first streamqwr",
+      "id": 1
+    },
+    {
+      "Title": "asdfasdf",
+      "Description": "asf",
+      "id": 2
+    },
+    {
+      "Title": "Second Stream",
+      "Description": "Second stream",
+      "id": 3
+    },
+    {
+      "Title": "Edit",
+      "Description": "Edit",
+      "userId": "114793439134156137437",
+      "id": 4
+    }
+  ]
+}
