@@ -1,6 +1,9 @@
 ## Video-Streamer
 The application is an inspiration from Twitch and lets the user who has logged into the application using Google OAuth to record video on their desktop and stream it to viewers on this application. Other people can watch videos that are being streamed. 
 
+## Video Demo
+https://drive.google.com/file/d/17fUEEEoV8AksYzck39qAHQu2dveHDJyf/view?usp=sharing
+
 ## Technology Used
 The application is focused heavily on Client Side
 1. React
